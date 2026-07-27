@@ -120,19 +120,4 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=HemanthKumar
 
 <br>
 
-<!-- ===================== TROPHIES ===================== -->
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-<img
-src="https://github-profile-trophy.vercel.app/?username=HemanthKumar-2006&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
-<br>
-
-<!-- ===================== PROFILE VIEWS ===================== -->
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HemanthKumar-2006&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
-</p>
