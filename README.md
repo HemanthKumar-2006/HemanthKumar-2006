@@ -24,3 +24,4 @@
     <img src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&theme=chartreuse-dark&show_icons=true)
