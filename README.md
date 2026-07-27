@@ -32,6 +32,21 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 ---
 
 </ul>
+
+<div align="center">
+
+<pre style="color:#c084fc; font-family: 'JetBrains Mono', monospace; font-size:16px; text-shadow:0 0 8px #a855f7, 0 0 16px #9333ea, 0 0 24px #7e22ce;">
+
+██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+███████║█████╗  ██╔████╔██║███████║██╔██╗ ██║   ██║   ███████║
+██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+
+</pre>
+
+</div>
 <!-- ===================== CONNECT ===================== -->
 
 <h2 align="center">🤝 Connect With Me</h2>
@@ -60,25 +75,12 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 <h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,opencv,fastapi,react,nodejs,docker,kubernetes,ubuntu,linux,git,github,vscode,mysql,postgres,azure,ae,pr&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,opencv,fastapi,react,nodejs,docker,kubernetes,ubuntu,linux,git,github,vscode,mysql,postgres,azure,ae,pr&perline=10"/>
 </p>
 
 <br>
 
-<div align="center">
 
-<pre style="color:#c084fc; font-family: 'JetBrains Mono', monospace; font-size:16px; text-shadow:0 0 8px #a855f7, 0 0 16px #9333ea, 0 0 24px #7e22ce;">
-
-██╗  ██╗███████╗███╗   ███╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
-██║  ██║██╔════╝████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
-███████║█████╗  ██╔████╔██║███████║██╔██╗ ██║   ██║   ███████║
-██╔══██║██╔══╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
-██║  ██║███████╗██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║
-╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
-
-</pre>
-
-</div>
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
