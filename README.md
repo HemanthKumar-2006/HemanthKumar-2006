@@ -1,26 +1,35 @@
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== INTRO ===================== -->
 
-<h2 align="left">🚀 About Me</h2>
+<h1 align="center">
+  Hello Guys! I'm Hemanth Kumar 👋
+</h1>
 
-<ul>
+<h3 align="center">
+AI Engineer | Computer Vision • LLMs • Space AI 🚀
+</h3>
 
-<li>🤖 B.Tech CSE (AI & ML) student at <b>SRM Institute of Science and Technology</b></li>
+<p align="center">
 
-<li>🧠 Passionate about <b>Artificial Intelligence, Computer Vision, Large Language Models, and MLOps</b></li>
+<img src="https://komarev.com/ghpvc/?username=HemanthKumar-2006&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<li>🚀 Currently building AI systems focused on <b>Space AI, Research, and High-Impact Applications</b></li>
+</p>
 
-<li>🌌 Interested in <b>Quantum Computing, Autonomous AI Agents, and Scientific Machine Learning</b></li>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J6dWJjM3BzM2FsdTZjdjRhM3NpMzdndXQ0cm13eWh1MWVjYWdmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
+</p>
 
-<li>💻 Experienced with <b>Python, PyTorch, TensorFlow, FastAPI, React, Docker, and Azure</b></li>
+---
 
-<li>📚 Always learning new technologies and contributing to open-source projects</li>
+## 🚀 About Me
 
-<li>🎯 Goal: Build impactful AI solutions and pursue opportunities at <b>NVIDIA, ISRO, DRDO, IBM Research</b></li>
+- 🤖 B.Tech CSE (AI & ML) @ **SRM Institute of Science and Technology**
+- 🧠 Passionate about **AI, Computer Vision, LLMs & Scientific ML**
+- 🚀 Currently building **RAG, Space AI and AI Research Projects**
+- ⚛️ Exploring **Quantum Computing & Autonomous AI Agents**
+- 🎯 Aspiring **AI Engineer** focused on impactful real-world systems
+- 📫 **hk06resilience@gmail.com**
 
-<li>📫 Reach me at <b>hk06resilience@gmail.com</b></li>
-
-<li>🌐 Portfolio: <a href="https://hemanthkumar.dev">Coming Soon</a></li>
+---
 
 </ul>
 <!-- ===================== CONNECT ===================== -->
