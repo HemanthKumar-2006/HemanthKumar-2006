@@ -18,16 +18,14 @@
 
 </pre>
 
-</div>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&theme=chartreuse-dark&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Hemanth's GitHub Stats"
+    src="https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
+    height="180"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true"
     height="180"
   />
 </p>
