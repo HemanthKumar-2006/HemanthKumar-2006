@@ -15,7 +15,7 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5BHfgGCaULd5WHD8oO/giphy.gif" width="450" alt="Levi Ackerman GIF"/>
+  <img src="https://media.giphy.com/media/5BHfgGCaULd5WHD8oO/giphy.gif" width="400" alt="Levi Ackerman GIF"/>
 </p>
 
 ---
