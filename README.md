@@ -24,4 +24,10 @@
     <img src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&theme=chartreuse-dark&show_icons=true)
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&theme=chartreuse-dark&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Hemanth's GitHub Stats"
+    height="180"
+  />
+</p>
