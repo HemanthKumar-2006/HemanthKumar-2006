@@ -15,7 +15,7 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3J6dWJjM3BzM2FsdTZjdjRhM3NpMzdndXQ0cm13eWh1MWVjYWdmbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
+<img src="https://giphy.com/embed/5BHfgGCaULd5WHD8oO" width="480" height="283" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/anime-scene-attack-on-titan-fight-levi-screaming-5BHfgGCaULd5WHD8oO" width="320"/>
 </p>
 
 ---
