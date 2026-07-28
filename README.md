@@ -19,8 +19,7 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 </p>
 
 ---
-
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 - 🤖 B.Tech CSE (AI & ML) @ **SRM Institute of Science and Technology**
 - 🧠 Passionate about **AI, Computer Vision, LLMs & Scientific ML**
