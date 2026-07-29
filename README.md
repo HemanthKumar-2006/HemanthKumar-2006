@@ -110,14 +110,6 @@ src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&
 
 <br>
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
 
-<p align="center">
-<img
-width="900"
-src="https://github-readme-activity-graph.vercel.app/graph?username=HemanthKumar-2006&theme=react-dark&hide_border=true"/>
-</p>
-
-<br>
 
 
