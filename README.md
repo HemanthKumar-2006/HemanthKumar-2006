@@ -17,7 +17,7 @@ AI Engineer | Computer Vision • LLMs • Space AI 🚀
 <p align="center">
   <img src="./assets/levi.gif" width="400" alt="Levi Ackerman"/>
 </p>
----
+
 
 <h2 align="center">🚀 About Me</h2>
 
