@@ -1,6 +1,7 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&text=HEMANTH%20KUMAR&fontSize=40&fontAlign=50&animation=fadeIn&fontColor=ffffff&color=0:6A0DAD,35:CC00FF,70:00C9FF,100:0B1026"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=25&color=0:6A0DAD,25:CC00FF,60:22D3EE,100:A8D5BA"/>
 </p>
 <!-- ===================== INTRO ===================== -->
 
@@ -126,5 +127,7 @@ If you enjoy my projects or they helped you learn something, consider supporting
 </p>
 
 
-
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=25&color=0:2B0A3D,25:7B2CBF,50:E000FF,75:FF5E5B,100:FFC857"/>
+</p>
 
