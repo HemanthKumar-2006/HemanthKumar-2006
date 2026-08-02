@@ -109,6 +109,21 @@ src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&
 
 <br>
 
+<h2 align="center">☕ Support the Developer</h2>
+
+<p align="center">
+If my work helps you, consider buying me a coffee ❤️
+</p>
+
+<p align="center">
+<a href="https://buymeacoffee.com/YOUR_USERNAME">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+height="60"
+width="217"
+alt="Buy Me A Coffee">
+</a>
+</p>
+
 
 
 
