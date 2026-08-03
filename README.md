@@ -92,7 +92,7 @@ AI Engineer | Computer Vision | LLMs | Space AI 🚀
 
 <p align="center">
 <img
-width="520"
+width="450"
 src="https://github-readme-stats-fast.vercel.app/api?username=HemanthKumar-2006&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
 </p>
 
@@ -108,7 +108,7 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hemanth
 
 <p align="center">
 <img
-width="520"
+width="420"
 src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true"/>
 </p>
 
