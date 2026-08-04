@@ -77,7 +77,7 @@ AI Engineer | Computer Vision | LLMs | Space AI 🚀
 <h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,css,opencv,fastapi,react,nodejs,docker,kubernetes,ubuntu,linux,git,github,vscode,mysql,postgres,azure,ae,pr&perline=11"/>
+  <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,css,opencv,html,fastapi,react,nodejs,docker,kubernetes,ubuntu,linux,git,github,vscode,mysql,postgres,azure,ae,pr&perline=11"/>
 </p>
 
 <br>
