@@ -107,9 +107,11 @@ src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hemanth
 <!-- Streak -->
 
 <p align="center">
-<img
-width="420"
-src="https://streak-stats.demolab.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true"/>
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://github-readme-streak-stats-crdm.onrender.com?user=HemanthKumar-2006&theme=highcontrast&hide_border=true&border_radius=5.2&card_width=450"
+      alt="GitHub Streak" />
+  </a>
 </p>
 
 <br>
