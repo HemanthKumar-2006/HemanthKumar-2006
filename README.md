@@ -74,13 +74,58 @@ AI Engineer | Computer Vision | LLMs | Space AI 🚀
 </p>
 <!-- ===================== LANGUAGES ===================== -->
 
-<h2 align="center">💻 Languages & Tools</h2>
+<!-- ===================== COMMAND DECK ===================== -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,css,opencv,html,fastapi,react,nodejs,docker,kubernetes,ubuntu,linux,git,github,vscode,mysql,postgres,azure,ae,pr&perline=11"/>
-</p>
+<h2 align="center">🧠 Languages & Tools</h2>
 
-<br>
+<table align="center">
+  <tr>
+    <th>Domain</th>
+    <th>Technologies</th>
+  </tr>
+
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,java&perline=2" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=2" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,html,css&perline=3" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" />
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,ubuntu,git,github,vscode&perline=8" />
+    </td>
+  </tr>
+</table>
 
 
 
