@@ -10,7 +10,7 @@
 </h1>
 
 <h3 align="center">
-AI Engineer | Computer Vision | LLMs | Space AI 🚀
+AI Engineer | Computer Vision | LLMs | Space AI 
 </h3>
 
 <p align="center">
