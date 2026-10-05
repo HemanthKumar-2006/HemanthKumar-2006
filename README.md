@@ -26,7 +26,7 @@ AI Engineer | ML | LLMs | Space AI
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🎓 B.Tech CSE (AI & ML)  at **SRM Institute of Science and Technology**
+- 🎓 B.Tech CSE (AI & ML)  at **SRMIST**
 - 💡 Building intelligent systems using **Computer Vision, LLMs, RAG, and ML**
 - 🚀 Interested in **Space AI, AI Research, and Quantum Computing**
 - 📫 **hk06resilience@gmail.com**
